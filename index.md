@@ -5,20 +5,8 @@ Hello! I am Michael Brown, a junior undergrad attending the University of Califo
 
 ## Videos
 
-```markdown
-Syntax highlighted code block
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vb5EIfMo3XU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```

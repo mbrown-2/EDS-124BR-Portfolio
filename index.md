@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+# A Personal Showcase of Informative Work
 
-You can use the [editor on GitHub](https://github.com/mbrown-2/EDS-124BR-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am Michael Brown, a junior undergrad attending the University of California: San Diego. This website will feature a growing portfolio of videos and projects associated with EDS-124BR.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Videos
 
 ```markdown
 Syntax highlighted code block

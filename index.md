@@ -5,7 +5,7 @@ Hello! I am Michael Brown, a junior undergrad attending the University of Califo
 
 ## Videos
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vb5EIfMo3XU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vb5EIfMo3XU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 [Link](url) and ![Image](src)

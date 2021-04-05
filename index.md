@@ -7,4 +7,11 @@ Hello! I am Michael Brown, a junior undergrad attending the University of Califo
 ## Videos
 
 ### Wk. 1 - Alonzo Builds a House
+
 [![](http://img.youtube.com/vi/vb5EIfMo3XU/0.jpg)](http://www.youtube.com/watch?v=vb5EIfMo3XU "Alonzo Builds a House")
+
+-------
+
+### Wk. 2 - Demonstrating Repeats
+
+[![](http://img.youtube.com/vi/HqZfePs_SkY/0.jpg)](http://www.youtube.com/watch?v=HqZfePs_SkY "")

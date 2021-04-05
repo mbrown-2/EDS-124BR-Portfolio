@@ -14,4 +14,4 @@ Hello! I am Michael Brown, a junior undergrad attending the University of Califo
 
 ### Wk. 2 - Demonstrating Repeats
 
-[![](http://img.youtube.com/vi/HqZfePs_SkY/0.jpg)](http://www.youtube.com/watch?v=HqZfePs_SkY "")
+[![](http://img.youtube.com/vi/HqZfePs_SkY/0.jpg)](http://www.youtube.com/watch?v=HqZfePs_SkY "Demonstrating Repeats")

@@ -19,4 +19,4 @@ Hello! I am Michael Brown, a junior undergrad attending the University of Califo
 | Video | Description |
 | ----- | ----------- |
 | [![](http://img.youtube.com/vi/cgOAmz8ZbdE/0.jpg)](http://www.youtube.com/watch?v=cgOAmz8ZbdE "Repeats in Snap!") | **Title:** Demonstating Repeats in Block Programming <br /> <br /> **Description:** A small, custom program for defining and demonstrating *repeats* in block programming. |
-| [![](http://img.youtube.com/vi/HMSEYY8eybQ/0.jpg)](http://www.youtube.com/watch?v=HMSEYY8eybQ "Repeats in Scratch") | **Title:** Further Demonstrations with Sprite Animations <br /> <br /> **Description:** A second look at *repeats*, but this time using Scratch block programming. |
+| [![](http://img.youtube.com/vi/hLE3ikbU57o/0.jpg)](http://www.youtube.com/watch?v=hLE3ikbU57o "Repeats in Scratch") | **Title:** Further Demonstrations with Sprite Animations <br /> <br /> **Description:** A second look at *repeats*, but this time using Scratch block programming. |

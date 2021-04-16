@@ -27,7 +27,7 @@ Hello! I am Michael Brown, a junior undergrad attending the University of Califo
 
 | Video | Description |
 | ----- | ----------- |
-| [![](http://img.youtube.com/vi/FXnknelgT5U/0.jpg)](http://www.youtube.com/watch?v=FXnknelgT5U "Nested Repeats") | **Title:** Demonstrating Nested Repeats. <br /> <br /> **Description:** A quick example for showcasing how nested repeats can help make more elaborate patterns. A key takeaway: be sure to keep track of the number of times a nested repeat actually repeats! |
+| [![](http://img.youtube.com/vi/FXnknelgT5U/0.jpg)](http://www.youtube.com/watch?v=FXnknelgT5U "Nested Repeats") | **Title:** Demonstrating Nested Repeats <br /> <br /> **Description:** A quick example for showcasing how nested repeats can help make more elaborate patterns. A key takeaway: be sure to keep track of the number of times a nested repeat actually repeats! |
 | [![](http://img.youtube.com/vi/hZ8xH4HHils/0.jpg)](http://www.youtube.com/watch?v=hZ8xH4HHils "") | **Title:** Monkeys and Events <br /> <br /> **Description:** A more complex project in block programming that introduces events to send signals between programs and allow user interaction. |
 
 -------

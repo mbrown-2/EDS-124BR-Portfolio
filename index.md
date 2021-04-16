@@ -20,3 +20,13 @@ Hello! I am Michael Brown, a junior undergrad attending the University of Califo
 | ----- | ----------- |
 | [![](http://img.youtube.com/vi/cgOAmz8ZbdE/0.jpg)](http://www.youtube.com/watch?v=cgOAmz8ZbdE "Repeats in Snap!") | **Title:** Demonstating Repeats in Block Programming <br /> <br /> **Description:** A small, custom program for defining and demonstrating *repeats* in block programming. |
 | [![](http://img.youtube.com/vi/hLE3ikbU57o/0.jpg)](http://www.youtube.com/watch?v=hLE3ikbU57o "Repeats in Scratch") | **Title:** Further Demonstrations with Sprite Animations <br /> <br /> **Description:** A second look at *repeats*, but this time using Scratch block programming. |
+
+-------
+
+### Wk. 3 - Nested Repeats and Events
+
+| Video | Description |
+| ----- | ----------- |
+| [![](http://img.youtube.com/vi/FXnknelgT5U/0.jpg)](http://www.youtube.com/watch?v=FXnknelgT5U "Nested Repeats") | **Title:** Demonstrating Nested Repeats. <br /> <br /> **Description:** A quick example for showcasing how nested repeats can help make more elaborate patterns. A key takeaway: be sure to keep track of the number of times a nested repeat actually repeats! |
+| [![](http://img.youtube.com/vi/hZ8xH4HHils/0.jpg)](http://www.youtube.com/watch?v=hZ8xH4HHils "") | **Title:** Monkeys and Events <br /> <br /> **Description:** A more complex project in block programming that introduces events to send signals between programs and allow user interaction. |
+

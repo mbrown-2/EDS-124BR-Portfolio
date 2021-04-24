@@ -32,6 +32,14 @@ Hello! I am Michael Brown, a junior undergrad attending the University of Califo
 
 -------
 
+### Wk. 4 - Variables
+
+| Video | Description |
+| ----- | ----------- |
+| [![](http://img.youtube.com/vi/65Ai3-F1okQ/0.jpg)](http://www.youtube.com/watch?v=65Ai3-F1okQ "") | **Title:** Variables in Programs <br /> <br /> **Description:** A brief introduction to variables and their importance in the programs we make. |
+
+-------
+
 # A Personal To-Do list for this website...
 - [ ] Reorganize the spacing in the description text boxes.
 - [ ] Incorporate additional overview text panels that summarize the goals of each week.

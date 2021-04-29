@@ -40,6 +40,15 @@ Hello! I am Michael Brown, a junior undergrad attending the University of Califo
 
 -------
 
+### Wk. 5 - Conditionals
+
+
+| Video | Description |
+| ----- | ----------- |
+| [![](http://img.youtube.com/vi/E3zHXBzVNpM/0.jpg)](http://www.youtube.com/watch?v=E3zHXBzVNpM "") | **Title:** Catch the Ball! <br /> <br /> **Description:** A closer look at the implementation of a conditional loop by programming a mini-game. |
+
+-------
+
 # A Personal To-Do list for this website...
 - [ ] Reorganize the spacing in the description text boxes.
 - [ ] Incorporate additional overview text panels that summarize the goals of each week.

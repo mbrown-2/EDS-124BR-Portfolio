@@ -48,16 +48,16 @@ Hello! I am Michael Brown, a junior undergrad attending the University of Califo
 
 -------
 
-# A Personal To-Do list for this website...
-- [ ] Reorganize the spacing in the description text boxes.
-- [ ] Incorporate additional overview text panels that summarize the goals of each week.
-- [ ] Place links to other personal resources (personal GitHub projects, LinkedIn for the heck of it, and so forth)
-- [ ] Get decorative!
-
--------
-
 ### Wk. 6 - If/Else Statements
 
 | Video | Description |
 | ----- | ----------- |
 | [![](http://img.youtube.com/vi/L8JPIRsDqig/0.jpg)](http://www.youtube.com/watch?v=L8JPIRsDqig "") | **Title:**Bullseye! <br /> <br /> **Description:** Incorporating If-Else statements to construct the functionality of a mini-game. |
+
+-------
+
+# A Personal To-Do list for this website...
+- [ ] Reorganize the spacing in the description text boxes.
+- [ ] Incorporate additional overview text panels that summarize the goals of each week.
+- [ ] Place links to other personal resources (personal GitHub projects, LinkedIn for the heck of it, and so forth)
+- [ ] Get decorative!

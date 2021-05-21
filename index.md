@@ -52,7 +52,7 @@ Hello! I am Michael Brown, a junior undergrad attending the University of Califo
 
 | Video | Description |
 | ----- | ----------- |
-| [![](http://img.youtube.com/vi/L8JPIRsDqig/0.jpg)](http://www.youtube.com/watch?v=L8JPIRsDqig "") | **Title:**Bullseye! <br /> <br /> **Description:** Incorporating If-Else statements to construct the functionality of a mini-game. |
+| [![](http://img.youtube.com/vi/L8JPIRsDqig/0.jpg)](http://www.youtube.com/watch?v=L8JPIRsDqig "") | **Title:** Bullseye! <br /> <br /> **Description:** Incorporating If-Else statements to construct the functionality of a mini-game. |
 
 -------
 
@@ -60,8 +60,15 @@ Hello! I am Michael Brown, a junior undergrad attending the University of Califo
 
 | Video | Description |
 | ----- | ----------- |
-| [![](http://img.youtube.com/vi/i2UAsq1plpU/0.jpg)](http://www.youtube.com/watch?v=i2UAsq1plpU "") | **Title:**Should I Swim? <br /> <br /> **Description:** Incorporating nested If-Else statements to implement the decision-making of a program. |
+| [![](http://img.youtube.com/vi/i2UAsq1plpU/0.jpg)](http://www.youtube.com/watch?v=i2UAsq1plpU "") | **Title:** Should I Swim? <br /> <br /> **Description:** Incorporating nested If-Else statements to implement the decision-making of a program. |
 
+-------
+
+### Wk. 8 - Compound Conditionals
+
+| Video | Description |
+| ----- | ----------- |
+| [![](http://img.youtube.com/vi/NNiufL6pJp4/0.jpg)](http://www.youtube.com/watch?v=NNiufL6pJp4 "") | **Title:** Treasure Hunting <br /> <br /> **Description:** An expansion of  conditionals by grouping such statements together to create unique, boolean evaluations in our code. |
 -------
 
 # A Personal To-Do list for this website...

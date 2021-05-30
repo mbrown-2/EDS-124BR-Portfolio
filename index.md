@@ -68,7 +68,16 @@ Hello! I am Michael Brown, a junior undergrad attending the University of Califo
 
 | Video | Description |
 | ----- | ----------- |
-| [![](http://img.youtube.com/vi/NNiufL6pJp4/0.jpg)](http://www.youtube.com/watch?v=NNiufL6pJp4 "") | **Title:** Treasure Hunting <br /> <br /> **Description:** An expansion of  conditionals by grouping such statements together to create unique, boolean evaluations in our code. |
+| [![](http://img.youtube.com/vi/NNiufL6pJp4/0.jpg)](http://www.youtube.com/watch?v=NNiufL6pJp4 "") | **Title:** Treasure Hunting <br /> <br /> **Description:** An expansion of conditionals by grouping such statements together to create unique, boolean evaluations in our code. |
+
+-------
+
+### Wk. 9 - Abstraction
+
+| Video | Description |
+| ----- | ----------- |
+| [![](http://img.youtube.com/vi/wN0qjQCtX9Q/0.jpg)](http://www.youtube.com/watch?v=wN0qjQCtX9Q "") | **Title:** Abstraction - A Programmer's Life Hack <br /> <br /> **Description:** Breaking down our project into granular tasks via the methodology of abstraction. |
+
 -------
 
 # A Personal To-Do list for this website...

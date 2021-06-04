@@ -80,6 +80,14 @@ Hello! I am Michael Brown, a junior undergrad attending the University of Califo
 
 -------
 
+### Wk. 10 - Lists
+
+| Video | Description |
+| ----- | ----------- |
+| [![](http://img.youtube.com/vi/YuZ0tGahC7w/0.jpg)](http://www.youtube.com/watch?v=YuZ0tGahC7w "") | **Title:** Lists and Iterations <br /> <br /> **Description:** A closer look at the applications of the new list data structure. |
+
+-------
+
 # A Personal To-Do list for this website...
 - [ ] Reorganize the spacing in the description text boxes.
 - [ ] Incorporate additional overview text panels that summarize the goals of each week.
